@@ -14,7 +14,7 @@
 
 
 
-- 🌱 I am working on my backend and frontend development skills. 
+-🌱 I’m currently learning MERN stack 
 - 💬 Talk to me about Frontend-Backend Development,DSA in Java 
 - 📫 How to reach me lovnishgarg044@gmail.com
   
